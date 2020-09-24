@@ -1,1 +1,2 @@
 This project for learn Design Patterns
+We will practise code many types of them.
